@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiAplicacion</string> <!-- Cambia "MiAplicacion" por el nombre de tu app -->
+    <string name="bienvenida">Bienvenidos al curso de Android</string>
+</resources>

@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.MyApplication.Light" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Otros atributos que necesites -->
+    </style>
+
+    <style name="Theme.MyApplication.Light" parent="Base.Theme.MyApplication.Light">
+        <!-- Si necesitas personalizaciones adicionales, añádelas aquí -->
+    </style>
+</resources>
